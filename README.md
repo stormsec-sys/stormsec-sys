@@ -104,15 +104,7 @@ Pesquisador de segurança ofensiva com foco em **red team operations**, **mobile
 > Todas as atividades de segurança descritas neste perfil são realizadas **exclusivamente em ambientes autorizados** — engajamentos contratados, laboratórios próprios e programas de bug bounty com escopo definido.  
 > Sigo os princípios de **responsible disclosure** e ética em segurança ofensiva.
 
----
 
-## 📫 Contato
-
-- ✉️ **Email**: [stormdev@gmail.com](mailto:stormdev6@gmail.com)
-- 🔗 **LinkedIn**: [linkedin.com/in/deivid-abreu](https://www.linkedin.com/in/deivid-abreu)
-- 📍 **Localização**: Região de Foz do Iguaçu, PR / PY
-
----
 
 <div align="center">
 
