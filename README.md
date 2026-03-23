@@ -24,7 +24,7 @@
 ## `whoami`
 
 ```bash
-$ cat /etc/profile.d/deivid.sh
+$ cat /etc/profile.d/storm.sh
 
 NAME="Storm"
 ROLE="Penetration Tester & Red Team Operator"
